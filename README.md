@@ -52,7 +52,7 @@ Engineered a Python script to classify the songs into four general moods. Utiliz
   - **KMeans** to implement the K-Means clustering algorithm
   - **Silhouette Score** to evaluate the cluster quality
 - **Microsoft Excel** to prepare the dataset before loading into Python
-- **Google Colabs Notebook** for interactive coding and visualization
+- **Jupyter Notebook** for interactive coding and visualization
 
 
 ## Authors <!--- do not change this line -->
