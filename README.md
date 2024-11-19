@@ -18,22 +18,20 @@ mental wellbeing. As a result, there is an increasing demand for personalized mu
 
 ## Key Results <!--- do not change this line -->
 
-1. *Cleaned and normalized a datset of 11,960 songs before spliting the data into a training group and a testing group*
-2. *Established the key features used in determining a song's mood, such as **energy**, **acousticness**, and **valence***
-3. *Identified four general clusters within the dataset:*
+1. Cleaned and normalized a datset of 11,960 songs before spliting the data into a training group and a testing group
+2. Established the key features used in determining a song's mood, such as **energy**, **acousticness**, and **valence**
+3. Identified four general clusters within the dataset:
    - *Cluster 0: Calm*
    - *Cluster 1: Energetic*
    - *Cluster 2: Happy*
    - *Cluster 3: Sad*
-4. *Visualized the relationship between song features to reveal the mood*
-5. *Provided a groundwork for later work in a mood-based recommendation system and playlist generation*
+4. Visualized the relationship between song features to reveal the mood
+5. Provided a groundwork for later work in a mood-based recommendation system and playlist generation
 
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
-
-*Engineered a Python script to classify the songs into four general moods. Utilized pandas to load and group songs with similar features using pandas.*
+Engineered a Python script to classify the songs into four general moods. Utilized pandas to load and group songs with similar features using pandas.
 
 
 ## Data Sources <!--- do not change this line -->
@@ -43,21 +41,21 @@ mental wellbeing. As a result, there is an increasing demand for personalized mu
 
 ## Technologies Used <!--- do not change this line -->
 
-- ***Python** for scripting, data analysis, and machine learning*
-- ***pandas** for reading a spreadsheet into a DataFrame*
-- ***numpy*** for calculating on the dataset
-- ***matplotlib*** for creating data visualizations
-- ***seaborn*** for creating pairplots
-- ***sklearn*** for scaling and clustering data
-  - ***StandardScalar*** to scale the data for clustering
-  - ***train_test_split*** to split the data into training (80%) and testing (20%) sets
-  - ***KMeans*** to implement the K-Means clustering algorithm
-  - ***Silhouette Score*** to evaluate the cluster quality
-- ***Microsoft Excel*** to prepare the dataset before loading into Python
-- ***Google Colabs Notebook*** for interactive coding and visualization
+- **Python** for scripting, data analysis, and machine learning
+- **pandas** for reading a spreadsheet into a DataFrame
+- **numpy** for calculating on the dataset
+- **matplotlib** for creating data visualizations
+- **seaborn** for creating pairplots
+- **sklearn** for scaling and clustering data
+  - **StandardScalar** to scale the data for clustering
+  - **train_test_split** to split the data into training (80%) and testing (20%) sets
+  - **KMeans** to implement the K-Means clustering algorithm
+  - **Silhouette Score** to evaluate the cluster quality
+- **Microsoft Excel** to prepare the dataset before loading into Python
+- **Google Colabs Notebook** for interactive coding and visualization
 
 
 ## Authors <!--- do not change this line -->
 
 *This project was completed in collaboration with:*
-- *Kionna Kanoyton ([GitHub](https://github.com/KioKano))*
+- Kionna Kanoyton ([GitHub](https://github.com/KioKano))
