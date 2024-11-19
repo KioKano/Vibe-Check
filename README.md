@@ -45,7 +45,7 @@ Engineered a Python script to classify the songs into four general moods. Utiliz
 - **numpy** for calculating on the dataset
 - **matplotlib** for creating data visualizations
 - **seaborn** for creating pairplots
-- **sklearn** for scaling and clustering data
+- **scikit-learn** for scaling and clustering data
   - **StandardScalar** to scale the data for clustering
   - **train_test_split** to split the data into training (80%) and testing (20%) sets
   - **KMeans** to implement the K-Means clustering algorithm
