@@ -20,11 +20,10 @@ mental wellbeing. As a result, there is an increasing demand for personalized mu
 
 1. Cleaned and normalized a datset of 11,960 songs before spliting the data into a training group and a testing group
 2. Established the key features used in determining a song's mood, such as **energy**, **acousticness**, and **valence**
-3. Identified four general clusters within the dataset:
-   - *Cluster 0: Calm*
-   - *Cluster 1: Energetic*
-   - *Cluster 2: Happy*
-   - *Cluster 3: Sad*
+3. Identified three general clusters within the dataset:
+   - *Cluster 0: Ambient*
+   - *Cluster 1: Sad*
+   - *Cluster 2: Energetic*
 4. Visualized the relationship between song features to reveal the mood
 5. Provided a groundwork for later work in a mood-based recommendation system and playlist generation
 
